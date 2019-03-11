@@ -5,8 +5,8 @@
 The table has its own search and filter option.
 
 
-![Drug test](drug test.jpeg)
+![Drug test](doc/drugtest.jpeg)
 
-![Drug test](drug test 2.jpeg)
+![Drug test](doc/drugtest2.jpeg)
 
-![Drug test](drug test 3.jpeg)
+![Drug test](doc/drugtest3.jpeg)
